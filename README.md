@@ -30,6 +30,7 @@ Customize your meal planning experience by adding your recipes using the 'Add' b
 
 Easily navigate through PlanIt with the user-friendly navigation bar. Access the Meal Planner, Food Catalog, and contact options for assistance or feedback.
 
+
 ## Project Contributors
 
 Members contributed to this project:
