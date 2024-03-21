@@ -4,6 +4,7 @@ With a user-friendly interface and convenient features like a grocery list, Plan
 Say goodbye to complicated meal planning and hello to a simpler, more efficient way to eat well.
 
 Features:
+
 Primary Features:
 Meal Planner: PlanIt's core feature allows users to organize their meals for the week. The intuitive layout resembles a weekly planner, with separate sections for breakfast, snack, lunch, snack, and dinner for each day. Users can easily add meals from the Food Catalog or input their own recipes, providing a clear visual representation of their daily meals and snacks.
 
