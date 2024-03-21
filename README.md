@@ -40,6 +40,6 @@ Members contributed to this project:
 
 ## Prototype and Functionality
 
-View prototype and functionality on Planit. fig
+View prototype and functionality on Planit.fig
 
 ![Screenshot 2024-03-04 150702](https://github.com/iamdavidxu/Planit/assets/161985636/cb8252f9-a2cb-4c95-9d9c-ac8e6b64e1be)
