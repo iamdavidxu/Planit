@@ -6,11 +6,13 @@ Say goodbye to complicated meal planning and hello to a simpler, more efficient 
 Features:
 
 Primary Features:
+
 Meal Planner: PlanIt's core feature allows users to organize their meals for the week. The intuitive layout resembles a weekly planner, with separate sections for breakfast, snack, lunch, snack, and dinner for each day. Users can easily add meals from the Food Catalog or input their own recipes, providing a clear visual representation of their daily meals and snacks.
 
 Food Catalog: Explore a diverse range of food categories in the Food Catalog, including breakfast, lunch, dinner, and snacks. Each food item comes with a photo, descriptive title, link to the recipe, and a list of necessary ingredients. Browse through the catalog to discover new recipes and seamlessly add them to your Meal Planner.
 
 Secondary Features:
+
 Grocery List: Keep track of your grocery needs with PlanIt's convenient Grocery List feature. Add items you need to purchase, ensuring a smooth shopping experience.
 
 'Add' Button: Customize your meal planning experience by adding your own recipes using the 'Add' button. Input recipe URLs or create your unique recipes directly within the app.
